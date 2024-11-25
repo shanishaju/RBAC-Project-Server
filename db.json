@@ -1,0 +1,11 @@
+{
+    "employee":[
+        {
+            "id":1,
+            "username":"Admin",
+            "email":"admin@gmail.com",
+            "password":"Admin123",
+            "profile":""
+        }
+    ]
+}
